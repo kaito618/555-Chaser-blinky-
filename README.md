@@ -11,3 +11,5 @@ i'm making the blinky guided project to get more used to easyeda before i contin
 ------------------------------
 time now 2026/1/1 9:51 pm and things didn't go as planned i started this project to get experience dealing with easyeda to be able to complete my mp3 player project  but instead i got immersed with the mp3 player project and almost finished it but what i'm sure of now that's this project will be a peace of cake after what i learnt through these couple days 
 right now i start this session at 2026/1/1 10:13 pm
+
+ the idea will be a cat with eyes as leds 
