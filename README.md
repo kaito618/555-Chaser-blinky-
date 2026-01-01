@@ -13,3 +13,7 @@ time now 2026/1/1 9:51 pm and things didn't go as planned i started this project
 right now i start this session at 2026/1/1 10:13 pm
 
  the idea will be a cat with eyes as leds 
+
+  i connected the parts and used the net port that i just learned how to use and omd thank god that i noticed that the capacitor was reversed and i fixed that 
+  ![connected](https://github.com/user-attachments/assets/f592bae4-c6ac-4672-9832-759fb1479dee)
+at 11:16 pm
