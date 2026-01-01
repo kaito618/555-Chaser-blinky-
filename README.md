@@ -33,6 +33,5 @@ to this
 
 ![last 3d model](https://github.com/user-attachments/assets/ea2abdc7-0ebf-4bdd-9ef8-ae80dc649540)
 
-
-
-
+done at  2026/1/2 12:50 am 
+i'll try to finsih this project before i sleep becuase ny holiday ending tmrr technically it ended now i got a session at 7 am lol 
