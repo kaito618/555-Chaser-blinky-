@@ -17,3 +17,22 @@ right now i start this session at 2026/1/1 10:13 pm
   i connected the parts and used the net port that i just learned how to use and omd thank god that i noticed that the capacitor was reversed and i fixed that 
   ![connected](https://github.com/user-attachments/assets/f592bae4-c6ac-4672-9832-759fb1479dee)
 at 11:16 pm
+
+done with the pcp and ordered the parts the wya i want the shape i choose to make was a cat so i drew the outline and then added the parts, the leds as eyes 5 leds each eye and the connetor on the ear 
+took some time to connect everything and to order the parts and make them fit i'll add some typings now if there's space
+
+
+![wired cat pcb](https://github.com/user-attachments/assets/710ccb18-0722-458a-a5f4-0a3d217203cb)
+
+![connected cat](https://github.com/user-attachments/assets/bad88d16-0c4d-4c16-ac70-ee010f700b38)
+
+i had this problem with the leds order and the eyes weren't symmetrical so i used the dimensions tool and measured and realigned the left eye 
+![3d cat ](https://github.com/user-attachments/assets/9aafe790-ea82-4acc-a25a-dc22306d1587)
+
+to this 
+
+![last 3d model](https://github.com/user-attachments/assets/ea2abdc7-0ebf-4bdd-9ef8-ae80dc649540)
+
+
+
+
