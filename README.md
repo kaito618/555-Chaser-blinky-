@@ -35,3 +35,9 @@ to this
 
 done at  2026/1/2 12:50 am 
 i'll try to finsih this project before i sleep becuase ny holiday ending tmrr technically it ended now i got a session at 7 am lol 
+
+ i finished the connections and added a logo and my name on it and fixed all the drc errors , hvae been wiring it for hours now it's 3:9 am 
+![done connections](https://github.com/user-attachments/assets/c22acb49-3d40-4cde-babb-de499bdad65b)
+
+ ---------------------------------
+ now i have finished this project had some nice time with it and i'm happy with the process i really had fun through everything even the PAINFUL steps and being scared at the beginning but still went for it (for my future self) i did this for u even if it wasn't much but i still did it keep going and tbh u just "can" 
