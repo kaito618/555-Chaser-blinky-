@@ -30,7 +30,6 @@ took some time to connect everything and to order the parts and make them fit i'
 
 ![wired cat pcb](https://github.com/user-attachments/assets/710ccb18-0722-458a-a5f4-0a3d217203cb)
 
-![connected cat](https://github.com/user-attachments/assets/bad88d16-0c4d-4c16-ac70-ee010f700b38)
 
 i had this problem with the leds order and the eyes weren't symmetrical so i used the dimensions tool and measured and realigned the left eye 
 ![3d cat ](https://github.com/user-attachments/assets/9aafe790-ea82-4acc-a25a-dc22306d1587)
