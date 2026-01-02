@@ -1,3 +1,8 @@
+
+![Screenshot_2026-01-02_03-31-53](https://github.com/user-attachments/assets/b173ee1a-7ae0-46dd-ae91-28dfa030924b)
+
+
+
 # 555-Chaser-blinky-
 making the blinky board multiple leds chasing in a loop
 im making the blinky board form the guided projects and i wanna modify the looks
